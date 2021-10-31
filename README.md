@@ -19,3 +19,5 @@ You may be able to follow along on Windows but the steps were only tested on a M
 ## Preparation
 
 No preparation is necessary. If you like, you may look at the included PDF ebook which we'll be using as a guide during the workshop.
+
+I look forward to going through this workshop with you!
